@@ -1,0 +1,2 @@
+# modern-django-
+Django Tutorial
